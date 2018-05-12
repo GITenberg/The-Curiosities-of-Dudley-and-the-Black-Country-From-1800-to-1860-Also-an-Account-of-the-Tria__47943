@@ -1,15 +1,21 @@
 _repo: The-Curiosities-of-Dudley-and-the-Black-Country-From-1800-to-1860-Also-an-Account-of-the-Tria__47943
+_version: 0.1.0
 contributor:
   contributor:
     agent_name: Dudley, Dud
     gutenberg_agent_id: '44538'
     url: http://www.gutenberg.org/2009/agents/44538
+covers:
+- cover_type: archival
+  image_path: 47943-h/images/cover.jpg
 creator:
   author:
     agent_name: Clark, C. F. G.
     gutenberg_agent_id: '44537'
     url: http://www.gutenberg.org/2009/agents/44537
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47943#The-Curiosities-of-Dudley-and-the-Black-Country-From-1800-to-1860-Also-an-Account-of-the-Tria_
 gutenberg_issued: '2015-01-11'
 gutenberg_type: Text
 identifiers:

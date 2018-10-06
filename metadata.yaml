@@ -24,6 +24,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'The Curiosities of Dudley and the Black Country, From 1800 to 1860
 
   Also an Account of the Trials and Sufferings of Dud Dudley
